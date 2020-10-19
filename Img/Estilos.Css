@@ -1,0 +1,28 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.Galeria {
+    Font-Family: " Open Sans";
+}
+
+.Galeria H1 {
+    Text-Align: Center;
+    Margin: 20px 0 15px 0;
+    Font-Weight: 300;
+}
+
+.Linea {
+    border-top: 5px solid #0077c0;
+}
+
+.Contenedor-Imagenes {
+    display: flex;
+    width: 85;
+    margin: auto;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    border-radius: 3px;
+}
